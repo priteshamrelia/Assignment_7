@@ -42,5 +42,6 @@
     "webpack-hot-middleware": "^2.25.0",
     "whatwg-fetch": "^3.0.0"
   },
+  "devDependencies": {},
   "description": ""
 }
